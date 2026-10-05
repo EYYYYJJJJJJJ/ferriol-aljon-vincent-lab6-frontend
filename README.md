@@ -1,6 +1,8 @@
 # Activity 6 — Vue product management
 
-Aljon Vincent E. Ferriol
+- Student: Aljon Vincent E. Ferriol
+- Student ID: MCC2024-00052
+- Email: ferriol.aljone@minsu.edu.ph
 
 A simple Vue 3 single-page client for the Activity 6 LavaLust REST API. It includes login, the product list, add/edit forms, a delete confirmation dialog, and logout. Authentication uses bearer access tokens with one refresh attempt after HTTP 401. Tokens are stored in sessionStorage for the current tab and cleared on logout or failed refresh. Credentials are never prefilled.
 

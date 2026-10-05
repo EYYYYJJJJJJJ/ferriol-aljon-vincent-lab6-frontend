@@ -305,7 +305,7 @@ onMounted(async () => {
       </section>
     </main>
 
-    <footer>Aljon Vincent E. Ferriol</footer>
+    <footer>Aljon Vincent E. Ferriol &middot; MCC2024-00052 &middot; ferriol.aljone@minsu.edu.ph</footer>
 
     <dialog ref="deleteDialog" aria-labelledby="delete-title" aria-describedby="delete-description" @cancel.prevent="cancelDelete">
       <h2 id="delete-title">Delete product?</h2>
