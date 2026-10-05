@@ -4,6 +4,12 @@ Aljon Vincent E. Ferriol
 
 A simple Vue 3 single-page client for the Activity 6 LavaLust REST API. It includes login, the product list, add/edit forms, a delete confirmation dialog, and logout. Authentication uses bearer access tokens with one refresh attempt after HTTP 401. Tokens are stored in sessionStorage for the current tab and cleared on logout or failed refresh. Credentials are never prefilled.
 
+## Live deployment
+
+- Frontend: https://ferriol-aljon-vincent-lab6.onrender.com
+- LavaLust API: https://ferriol-aljon-vincent.onrender.com/index.php/api
+- Backend repository: https://github.com/EYYYYJJJJJJJ/ferriol-aljon-vincent-lavalust
+
 ## Run locally
 
 Use Node.js 22.18+ or 24.12+ and pnpm 11.25.0.
